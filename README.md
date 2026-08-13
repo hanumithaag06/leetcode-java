@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/hanumithaag06/leetcode-java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/hanumithaag06/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/hanumithaag06/leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/hanumithaag06/leetcode-java/tree/master/0832-flipping-an-image) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/hanumithaag06/leetcode-java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/hanumithaag06/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/hanumithaag06/leetcode-java/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/hanumithaag06/leetcode-java/tree/master/0328-odd-even-linked-list) |
