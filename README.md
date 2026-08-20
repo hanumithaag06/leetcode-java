@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/hanumithaag06/leetcode-java/tree/master/0832-flipping-an-image) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/hanumithaag06/leetcode-java/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/hanumithaag06/leetcode-java/tree/master/2073-time-needed-to-buy-tickets) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hanumithaag06/leetcode-java/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Queue
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hanumithaag06/leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/hanumithaag06/leetcode-java/tree/master/0383-ransom-note) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/hanumithaag06/leetcode-java/tree/master/2053-kth-distinct-string-in-an-array) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hanumithaag06/leetcode-java/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/hanumithaag06/leetcode-java/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/hanumithaag06/leetcode-java/tree/master/0328-odd-even-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/hanumithaag06/leetcode-java/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hanumithaag06/leetcode-java/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
