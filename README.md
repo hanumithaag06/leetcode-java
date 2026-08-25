@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/hanumithaag06/leetcode-java/tree/master/0051-n-queens) |
 | [0139-word-break](https://github.com/hanumithaag06/leetcode-java/tree/master/0139-word-break) |
 | [0349-intersection-of-two-arrays](https://github.com/hanumithaag06/leetcode-java/tree/master/0349-intersection-of-two-arrays) |
+| [0494-target-sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0494-target-sum) |
 | [0832-flipping-an-image](https://github.com/hanumithaag06/leetcode-java/tree/master/0832-flipping-an-image) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/hanumithaag06/leetcode-java/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/hanumithaag06/leetcode-java/tree/master/2073-time-needed-to-buy-tickets) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/hanumithaag06/leetcode-java/tree/master/0139-word-break) |
+| [0494-target-sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0494-target-sum) |
 ## Trie
 |  |
 | ------- |
@@ -127,9 +129,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/hanumithaag06/leetcode-java/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/hanumithaag06/leetcode-java/tree/master/0052-n-queens-ii) |
+| [0494-target-sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0494-target-sum) |
 ## Algorithm X
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/hanumithaag06/leetcode-java/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/hanumithaag06/leetcode-java/tree/master/0052-n-queens-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
