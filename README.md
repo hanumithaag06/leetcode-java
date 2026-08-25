@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/hanumithaag06/leetcode-java/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/hanumithaag06/leetcode-java/tree/master/0051-n-queens) |
 | [0139-word-break](https://github.com/hanumithaag06/leetcode-java/tree/master/0139-word-break) |
 | [0349-intersection-of-two-arrays](https://github.com/hanumithaag06/leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/hanumithaag06/leetcode-java/tree/master/0832-flipping-an-image) |
@@ -124,4 +125,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/hanumithaag06/leetcode-java/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/hanumithaag06/leetcode-java/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
