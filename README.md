@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/hanumithaag06/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/hanumithaag06/leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/hanumithaag06/leetcode-java/tree/master/0383-ransom-note) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/hanumithaag06/leetcode-java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/hanumithaag06/leetcode-java/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hanumithaag06/leetcode-java/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/hanumithaag06/leetcode-java/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/hanumithaag06/leetcode-java/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/hanumithaag06/leetcode-java/tree/master/0709-to-lower-case) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/hanumithaag06/leetcode-java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/hanumithaag06/leetcode-java/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Dynamic Programming
 |  |
