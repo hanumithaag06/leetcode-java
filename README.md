@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/hanumithaag06/leetcode-java/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hanumithaag06/leetcode-java/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0032-longest-valid-parentheses](https://github.com/hanumithaag06/leetcode-java/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/hanumithaag06/leetcode-java/tree/master/0139-word-break) |
 | [0383-ransom-note](https://github.com/hanumithaag06/leetcode-java/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/hanumithaag06/leetcode-java/tree/master/0412-fizz-buzz) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/hanumithaag06/leetcode-java/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/hanumithaag06/leetcode-java/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0494-target-sum) |
 ## Trie
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/hanumithaag06/leetcode-java/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hanumithaag06/leetcode-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/hanumithaag06/leetcode-java/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Backtracking
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/hanumithaag06/leetcode-java/tree/master/0037-sudoku-solver) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/hanumithaag06/leetcode-java/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
