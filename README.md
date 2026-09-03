@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/hanumithaag06/leetcode-java/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/hanumithaag06/leetcode-java/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/hanumithaag06/leetcode-java/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/hanumithaag06/leetcode-java/tree/master/0051-n-queens) |
 | [0139-word-break](https://github.com/hanumithaag06/leetcode-java/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hanumithaag06/leetcode-java/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/hanumithaag06/leetcode-java/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/hanumithaag06/leetcode-java/tree/master/0042-trapping-rain-water) |
 | [0139-word-break](https://github.com/hanumithaag06/leetcode-java/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0494-target-sum) |
 ## Trie
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hanumithaag06/leetcode-java/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/hanumithaag06/leetcode-java/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/hanumithaag06/leetcode-java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/hanumithaag06/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/hanumithaag06/leetcode-java/tree/master/0349-intersection-of-two-arrays) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/hanumithaag06/leetcode-java/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/hanumithaag06/leetcode-java/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hanumithaag06/leetcode-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/hanumithaag06/leetcode-java/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Backtracking
@@ -172,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/hanumithaag06/leetcode-java/tree/master/1480-running-sum-of-1d-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/hanumithaag06/leetcode-java/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
