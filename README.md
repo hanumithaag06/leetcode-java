@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hanumithaag06/leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 | [0494-target-sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0494-target-sum) |
 | [0832-flipping-an-image](https://github.com/hanumithaag06/leetcode-java/tree/master/0832-flipping-an-image) |
+| [1480-running-sum-of-1d-array](https://github.com/hanumithaag06/leetcode-java/tree/master/1480-running-sum-of-1d-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/hanumithaag06/leetcode-java/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/hanumithaag06/leetcode-java/tree/master/2073-time-needed-to-buy-tickets) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hanumithaag06/leetcode-java/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/hanumithaag06/leetcode-java/tree/master/0032-longest-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/hanumithaag06/leetcode-java/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
