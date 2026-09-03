@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/hanumithaag06/leetcode-java/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hanumithaag06/leetcode-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0412-fizz-buzz](https://github.com/hanumithaag06/leetcode-java/tree/master/0412-fizz-buzz) |
+| [2235-add-two-integers](https://github.com/hanumithaag06/leetcode-java/tree/master/2235-add-two-integers) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/hanumithaag06/leetcode-java/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Database
 |  |
