@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hanumithaag06/leetcode-java/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hanumithaag06/leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/hanumithaag06/leetcode-java/tree/master/0218-the-skyline-problem) |
+| [0283-move-zeroes](https://github.com/hanumithaag06/leetcode-java/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/hanumithaag06/leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hanumithaag06/leetcode-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0494-target-sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0494-target-sum) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/hanumithaag06/leetcode-java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/hanumithaag06/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/hanumithaag06/leetcode-java/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/hanumithaag06/leetcode-java/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/hanumithaag06/leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/hanumithaag06/leetcode-java/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
