@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hanumithaag06/leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/hanumithaag06/leetcode-java/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hanumithaag06/leetcode-java/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/hanumithaag06/leetcode-java/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hanumithaag06/leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/hanumithaag06/leetcode-java/tree/master/0218-the-skyline-problem) |
 | [0349-intersection-of-two-arrays](https://github.com/hanumithaag06/leetcode-java/tree/master/0349-intersection-of-two-arrays) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hanumithaag06/leetcode-java/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/hanumithaag06/leetcode-java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/hanumithaag06/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/hanumithaag06/leetcode-java/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/hanumithaag06/leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/hanumithaag06/leetcode-java/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/hanumithaag06/leetcode-java/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hanumithaag06/leetcode-java/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/hanumithaag06/leetcode-java/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/hanumithaag06/leetcode-java/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/hanumithaag06/leetcode-java/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/hanumithaag06/leetcode-java/tree/master/2427-number-of-common-factors) |
