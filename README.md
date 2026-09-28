@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/hanumithaag06/leetcode-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/hanumithaag06/leetcode-java/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/hanumithaag06/leetcode-java/tree/master/0041-first-missing-positive) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/hanumithaag06/leetcode-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/hanumithaag06/leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hanumithaag06/leetcode-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Sorting
