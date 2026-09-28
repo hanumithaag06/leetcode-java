@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/hanumithaag06/leetcode-java/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/hanumithaag06/leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/hanumithaag06/leetcode-java/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/hanumithaag06/leetcode-java/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/hanumithaag06/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/hanumithaag06/leetcode-java/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/hanumithaag06/leetcode-java/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/hanumithaag06/leetcode-java/tree/master/0876-middle-of-the-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/hanumithaag06/leetcode-java/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hanumithaag06/leetcode-java/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
