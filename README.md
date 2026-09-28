@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/hanumithaag06/leetcode-java/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/hanumithaag06/leetcode-java/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/hanumithaag06/leetcode-java/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/hanumithaag06/leetcode-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hanumithaag06/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/hanumithaag06/leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/hanumithaag06/leetcode-java/tree/master/0383-ransom-note) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hanumithaag06/leetcode-java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/hanumithaag06/leetcode-java/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/hanumithaag06/leetcode-java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0141-linked-list-cycle](https://github.com/hanumithaag06/leetcode-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hanumithaag06/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/hanumithaag06/leetcode-java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hanumithaag06/leetcode-java/tree/master/0283-move-zeroes) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hanumithaag06/leetcode-java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/hanumithaag06/leetcode-java/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/hanumithaag06/leetcode-java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0141-linked-list-cycle](https://github.com/hanumithaag06/leetcode-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hanumithaag06/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/hanumithaag06/leetcode-java/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/hanumithaag06/leetcode-java/tree/master/0328-odd-even-linked-list) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/hanumithaag06/leetcode-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hanumithaag06/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
 ## Stack
 |  |
