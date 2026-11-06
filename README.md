@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hanumithaag06/leetcode-java/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/hanumithaag06/leetcode-java/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/hanumithaag06/leetcode-java/tree/master/0053-maximum-subarray) |
+| [0084-largest-rectangle-in-histogram](https://github.com/hanumithaag06/leetcode-java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hanumithaag06/leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/hanumithaag06/leetcode-java/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hanumithaag06/leetcode-java/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/hanumithaag06/leetcode-java/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hanumithaag06/leetcode-java/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/hanumithaag06/leetcode-java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hanumithaag06/leetcode-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/hanumithaag06/leetcode-java/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Backtracking
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hanumithaag06/leetcode-java/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/hanumithaag06/leetcode-java/tree/master/0084-largest-rectangle-in-histogram) |
 ## Enumeration
 |  |
 | ------- |
@@ -290,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hanumithaag06/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/hanumithaag06/leetcode-java/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
