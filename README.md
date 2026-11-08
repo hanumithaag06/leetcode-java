@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hanumithaag06/leetcode-java/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/hanumithaag06/leetcode-java/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/hanumithaag06/leetcode-java/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/hanumithaag06/leetcode-java/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hanumithaag06/leetcode-java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hanumithaag06/leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/hanumithaag06/leetcode-java/tree/master/0139-word-break) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hanumithaag06/leetcode-java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/hanumithaag06/leetcode-java/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/hanumithaag06/leetcode-java/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/hanumithaag06/leetcode-java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/hanumithaag06/leetcode-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hanumithaag06/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/hanumithaag06/leetcode-java/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hanumithaag06/leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/hanumithaag06/leetcode-java/tree/master/0218-the-skyline-problem) |
 | [0349-intersection-of-two-arrays](https://github.com/hanumithaag06/leetcode-java/tree/master/0349-intersection-of-two-arrays) |
@@ -300,4 +303,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/hanumithaag06/leetcode-java/tree/master/0084-largest-rectangle-in-histogram) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/hanumithaag06/leetcode-java/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/hanumithaag06/leetcode-java/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
