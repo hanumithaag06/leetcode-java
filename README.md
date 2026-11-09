@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/hanumithaag06/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 | [0832-flipping-an-image](https://github.com/hanumithaag06/leetcode-java/tree/master/0832-flipping-an-image) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/hanumithaag06/leetcode-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1480-running-sum-of-1d-array](https://github.com/hanumithaag06/leetcode-java/tree/master/1480-running-sum-of-1d-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/hanumithaag06/leetcode-java/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/hanumithaag06/leetcode-java/tree/master/2073-time-needed-to-buy-tickets) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/hanumithaag06/leetcode-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/hanumithaag06/leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hanumithaag06/leetcode-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/hanumithaag06/leetcode-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sorting
 |  |
 | ------- |
