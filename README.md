@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hanumithaag06/leetcode-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0494-target-sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/hanumithaag06/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
+| [0733-flood-fill](https://github.com/hanumithaag06/leetcode-java/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/hanumithaag06/leetcode-java/tree/master/0832-flipping-an-image) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hanumithaag06/leetcode-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1480-running-sum-of-1d-array](https://github.com/hanumithaag06/leetcode-java/tree/master/1480-running-sum-of-1d-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/hanumithaag06/leetcode-java/tree/master/0037-sudoku-solver) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hanumithaag06/leetcode-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0733-flood-fill](https://github.com/hanumithaag06/leetcode-java/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/hanumithaag06/leetcode-java/tree/master/0832-flipping-an-image) |
 ## Binary Search
 |  |
@@ -313,4 +315,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/hanumithaag06/leetcode-java/tree/master/0075-sort-colors) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/hanumithaag06/leetcode-java/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/hanumithaag06/leetcode-java/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
