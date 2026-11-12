@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/hanumithaag06/leetcode-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/hanumithaag06/leetcode-java/tree/master/0033-search-in-rotated-sorted-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hanumithaag06/leetcode-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/hanumithaag06/leetcode-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/hanumithaag06/leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hanumithaag06/leetcode-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hanumithaag06/leetcode-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/hanumithaag06/leetcode-java/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hanumithaag06/leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/hanumithaag06/leetcode-java/tree/master/0218-the-skyline-problem) |
