@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hanumithaag06/leetcode-java/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/hanumithaag06/leetcode-java/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/hanumithaag06/leetcode-java/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/hanumithaag06/leetcode-java/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hanumithaag06/leetcode-java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hanumithaag06/leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hanumithaag06/leetcode-java/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hanumithaag06/leetcode-java/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/hanumithaag06/leetcode-java/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hanumithaag06/leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/hanumithaag06/leetcode-java/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/hanumithaag06/leetcode-java/tree/master/0198-house-robber) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/hanumithaag06/leetcode-java/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hanumithaag06/leetcode-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/hanumithaag06/leetcode-java/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/hanumithaag06/leetcode-java/tree/master/0733-flood-fill) |
