@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hanumithaag06/leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hanumithaag06/leetcode-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0494-target-sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/hanumithaag06/leetcode-java/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/hanumithaag06/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/hanumithaag06/leetcode-java/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/hanumithaag06/leetcode-java/tree/master/0832-flipping-an-image) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/hanumithaag06/leetcode-java/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/hanumithaag06/leetcode-java/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/hanumithaag06/leetcode-java/tree/master/0542-01-matrix) |
 ## Trie
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/hanumithaag06/leetcode-java/tree/master/0037-sudoku-solver) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hanumithaag06/leetcode-java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/hanumithaag06/leetcode-java/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/hanumithaag06/leetcode-java/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/hanumithaag06/leetcode-java/tree/master/0832-flipping-an-image) |
 ## Binary Search
@@ -330,5 +333,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/hanumithaag06/leetcode-java/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/hanumithaag06/leetcode-java/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
