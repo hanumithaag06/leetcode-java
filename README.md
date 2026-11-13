@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/hanumithaag06/leetcode-java/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hanumithaag06/leetcode-java/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hanumithaag06/leetcode-java/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/hanumithaag06/leetcode-java/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hanumithaag06/leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/hanumithaag06/leetcode-java/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/hanumithaag06/leetcode-java/tree/master/0198-house-robber) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hanumithaag06/leetcode-java/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/hanumithaag06/leetcode-java/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hanumithaag06/leetcode-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/hanumithaag06/leetcode-java/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/hanumithaag06/leetcode-java/tree/master/0412-fizz-buzz) |
@@ -335,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/hanumithaag06/leetcode-java/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/hanumithaag06/leetcode-java/tree/master/0733-flood-fill) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/hanumithaag06/leetcode-java/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
