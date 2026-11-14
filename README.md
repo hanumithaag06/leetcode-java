@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/hanumithaag06/leetcode-java/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/hanumithaag06/leetcode-java/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/hanumithaag06/leetcode-java/tree/master/0709-to-lower-case) |
+| [1143-longest-common-subsequence](https://github.com/hanumithaag06/leetcode-java/tree/master/1143-longest-common-subsequence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hanumithaag06/leetcode-java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/hanumithaag06/leetcode-java/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Dynamic Programming
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/hanumithaag06/leetcode-java/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/hanumithaag06/leetcode-java/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/hanumithaag06/leetcode-java/tree/master/0542-01-matrix) |
+| [1143-longest-common-subsequence](https://github.com/hanumithaag06/leetcode-java/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -358,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/hanumithaag06/leetcode-java/tree/master/0207-course-schedule) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/hanumithaag06/leetcode-java/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
