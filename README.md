@@ -334,14 +334,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/hanumithaag06/leetcode-java/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/hanumithaag06/leetcode-java/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/hanumithaag06/leetcode-java/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/hanumithaag06/leetcode-java/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/hanumithaag06/leetcode-java/tree/master/0733-flood-fill) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hanumithaag06/leetcode-java/tree/master/0062-unique-paths) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/hanumithaag06/leetcode-java/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/hanumithaag06/leetcode-java/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/hanumithaag06/leetcode-java/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
